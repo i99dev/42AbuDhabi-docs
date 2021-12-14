@@ -10,8 +10,8 @@ features:
   - Feature 3
   - only for test mode
 ---
-This repository is only for adding any instruction for students to help them get very easy to work with anything.
 
+we don't have ***contributors*** for this page. Be the first and help us by pressing on ***edit this page on GitHub***.
 
 ## Contributors
 

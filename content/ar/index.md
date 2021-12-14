@@ -1,9 +1,9 @@
 ---
-title: Introduction
+title: المقدمة
 fetchContributors: true
 description: 'this page only create to help 42-student get very easy work with any thing'
 position: 1.1
-category: 'quickstart'
+category: 'البداية'
 features:
   - Feature 1
   - Feature 2

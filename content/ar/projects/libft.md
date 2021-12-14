@@ -2,7 +2,7 @@
 title: مشروع libft
 description: 'this page only create to help 42-student get very easy work with any thing'
 position: 2.1
-category: 'Projects'
+category: 'المشاريع'
 Educational-goals:
   - سوف تتعلم الحديث مع مجموعة من البشر.
   - اضافة الكثير من المطيات الاخرى.
