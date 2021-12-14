@@ -2,8 +2,8 @@
 title: Introduction
 fetchContributors: true
 description: 'This page was only created to help 42-student get very easy work with anything'
-position: 1
-category: ''
+position: 1.1
+category: 'quickstart'
 features:
   - Feature 1
   - Feature 2

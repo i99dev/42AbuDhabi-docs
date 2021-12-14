@@ -1,8 +1,7 @@
 ---
 title: Valgrind Container
-fetchContributors: true
 description: ''
-position: 2
+position: 3.1
 category: Guidance
 ---
 
@@ -41,7 +40,3 @@ Then, add `@nuxtjs/xxx` to the `modules` section of `nuxt.config.js`:
   }
 }
 ```
-
-## Contributors
-
-<contributors :items="$contributors"></contributors>
