@@ -10,19 +10,6 @@ Educational-goals:
   - be very nice to be good person.
 ---
 
-## الاهداف التعليمية
-
-<list :items="Educational-goals"></list>
-
-
-لا شي للتجربة 
- 
- demo only
-
-## Installation
-to installition all project you want to ue plase use this one and keep on your maind thats all.
-<alert type='danger'>dddd</alart>
-
-## Usage.
-for any point on this page you need to be honset with you self if thats help you more let me knw thats please 
+ليس لدينا ***مساهمون*** لهذه الصفحة. كن الأول وساعدنا بالضغط
+ ***edit this page on GitHub***.
 
