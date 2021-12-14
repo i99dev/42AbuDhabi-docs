@@ -1,7 +1,7 @@
 <template>
   <div class="px-4 sm:px-6">
     <a
-      :href="item.url"
+      :href="item.html_url"
       target="_blank"
       class="inline-flex mb-2 mr-2 overflow-hidden transition-colors duration-300 ease-linear border rounded text-light-onSurfacePrimary dark:text-dark-onSurfacePrimary bg-light-surfaceElevated light:hover:bg-gray-300 dark:bg-dark-elevatedSurface dark:hover:bg-dark-surface border-light-border dark:border-dark-border"
       v-for="(item, i) in items"
