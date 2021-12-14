@@ -4,7 +4,7 @@ module.exports = function () {
   return async (tree, { data }) => {
     if (data.fetchContributors) {
       const contributors = await fetch(
-        'https://api.github.com/repos/i99dev/42AbuDhabi-doc/contributors'
+        'https://api.github.com/repos/i99dev/42AbuDhabi-docs/contributors'
       ).then(res => res.json())
       .catch(() => [])
       

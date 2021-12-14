@@ -25,7 +25,7 @@ export default theme({
     ],
   },
   router: {
-    base: "/42AbuDhabi-doc/",
+    base: "/42AbuDhabi-docs/",
   },
   i18n: {
     locales:()=>[

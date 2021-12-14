@@ -1,6 +1,6 @@
 ---
 title: مشروع libft
-# fetchContributors: true
+fetchContributors: true
 description: 'this page only create to help 42-student get very easy work with any thing'
 position: 1
 category: 'Projects'
@@ -12,7 +12,6 @@ Educational-goals:
 ---
 
 ## الاهداف التعليمية
-##### يجب متابةع المسلك التعليمي في 
 
 <list :items="Educational-goals"></list>
 
@@ -27,4 +26,4 @@ for any point on this page you need to be honset with you self if thats help you
 
 ## Contributors
 
-<!-- <contributors :items="$contributors"></contributors> -->
+<contributors :items="$contributors"></contributors>
