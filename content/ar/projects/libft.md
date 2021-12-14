@@ -15,7 +15,10 @@ Educational-goals:
 
 <list :items="Educational-goals"></list>
 
+
 لا شي للتجربة 
+ 
+ demo only
 
 ## Installation
 to installition all project you want to ue plase use this one and keep on your maind thats all.
