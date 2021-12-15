@@ -27,6 +27,12 @@ export default theme({
   router: {
     base: "/42AbuDhabi-docs/",
   },
+//   watchers: {
+//     webpack: {
+//       aggregateTimeout: 300,
+//       poll: true,
+//     },
+//   },
   i18n: {
     locales:()=>[
       {
