@@ -96,6 +96,30 @@ index 24045ee..78b6a20 100644
      </NuxtLink>
      <span v-else>&nbsp;</span>
    </div>
+diff --git a/node_modules/@nuxt/content-theme-docs/src/components/app/AppToc.vue b/node_modules/@nuxt/content-theme-docs/src/components/app/AppToc.vue
+index 0bb9b57..6d3efad 100644
+--- a/node_modules/@nuxt/content-theme-docs/src/components/app/AppToc.vue
++++ b/node_modules/@nuxt/content-theme-docs/src/components/app/AppToc.vue
+@@ -22,13 +22,13 @@
+           >
+             <a
+               :href="`#${link.id}`"
+-              class="block text-sm scrollactive-item transition-padding ease-in-out duration-300 hover:pl-1"
++              class="block text-sm scrollactive-item transition-padding ease-in-out duration-300 hover:ps-1"
+               :class="{
+-                'py-2': link.depth === 2,
+-                'ml-2 pb-2': link.depth === 3,
+-                'ml-3 pb-2': link.depth === 4,
+-                'ml-4 pb-2': link.depth === 5,
+-                'ml-5 pb-2': link.depth === 6
++                'py-2 font-semibold': link.depth === 2,
++                'ms-2 pb-2': link.depth === 3,
++                'ms-3 pb-2': link.depth === 4,
++                'ms-4 pb-2': link.depth === 5,
++                'ms-5 pb-2': link.depth === 6
+               }"
+             >{{ link.text }}</a>
+           </li>
 diff --git a/node_modules/@nuxt/content-theme-docs/src/components/global/base/List.vue b/node_modules/@nuxt/content-theme-docs/src/components/global/base/List.vue
 index 91d7a09..294540e 100644
 --- a/node_modules/@nuxt/content-theme-docs/src/components/global/base/List.vue

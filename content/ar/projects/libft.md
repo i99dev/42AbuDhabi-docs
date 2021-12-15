@@ -1,5 +1,5 @@
 ---
-title: مشروع libft
+title: libft
 description: 'this page only create to help 42-student get very easy work with any thing'
 position: 2.1
 category: 'المشاريع'
@@ -13,3 +13,4 @@ Educational-goals:
 ليس لدينا ***مساهمون*** لهذه الصفحة. كن الأول وساعدنا بالضغط
  ***edit this page on GitHub***.
 
+you can use our [QA model](guidelines/QA-Model) to write your own tutorials.

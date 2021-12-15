@@ -1,17 +1,14 @@
 ---
 title: المقدمة
 fetchContributors: true
-description: 'this page only create to help 42-student get very easy work with any thing'
-position: 1.1
+description: ''
+position: 1
 category: 'البداية'
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-  - only for test mode
 ---
-This respotory is only for add any instruction for student to help him get very easy work with any thing.
 
+
+ليس لدينا ***مساهمون*** لهذه الصفحة. كن الأول وساعدنا بالضغط
+ ***edit this page on GitHub***.
 
 ## المساهمين
 
