@@ -65,8 +65,16 @@ RUN python3 -m pip install norminette
 يمكنك ايضاً الحصول على الحاوية جاهزة الاعدادت من [42-Devcontainer](https://github.com/opsec-infosec/42-Devcontainer)
 
 ## Dubugging
+<a href="https://youtu.be/gqj5jv_wleg" target="_blank">[مشاهدة الفيديو]</a>
 
-قريباَ
+هي عملية لتصحيح الأخطاء من خلال تتبع عمل البرنامج سطر سطر حيث لا يمكن لي أي مبرمج العمل من دونها و تعتبر من المهارات المطلوبة لدى أي مبرمج , حيث تم رفع فيديو بسيط جدا اشرح فيه عملية ال debugger   .
+
+<alert type="danger">
+
+لا يعمل  ال debugger  من غير main() function
+
+</alert>
+
 
 ## debugging on Exam
 قريباً
